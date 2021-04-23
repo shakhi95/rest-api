@@ -1,5 +1,42 @@
 {
-  "users": [],
-  "posts":[],
-  "messages":[]
+  "users": [
+    {
+      "fullname": "خلیل شاخی",
+      "username": "shakhi95",
+      "avatarId": 4,
+      "password": "life0408",
+      "userUnqId": "b77618d9-e808-42ef-a67b-a6f6715f85cb",
+      "timeStamp": 1619176742975,
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "body": "امکانات برنامه:\n - ثبت نام  و ورود با ثبت اطلاعات در Local Storage\n - درج پست جدید\n- حذف پست های خود\n- لایک پست ها\n- ارسال و دریافت پیام\n- جستجو بین پست ها\n- و ...",
+      "hashtags": ["امکانات", "برنامه", "هشتگ"],
+      "postUnqId": "9b231750-a892-4177-b126-1d6bf06c1789",
+      "likes": ["b77618d9-e808-42ef-a67b-a6f6715f85cb"],
+      "timeStamp": 1619177067881,
+      "authorProfile": {
+        "avatarId": 4,
+        "fullname": "خلیل شاخی",
+        "userUnqId": "b77618d9-e808-42ef-a67b-a6f6715f85cb"
+      },
+      "id": 1
+    },
+    {
+      "body": "امکانات برنامه 2 :\n - مشاهده پروفایل اعضا\n- تغییر ترتیب نمایش پست ها\n- حذف دوطرفه پیام ها\n-  و ...",
+      "hashtags": ["امکانات", "هشتگ"],
+      "postUnqId": "fbf7e845-c008-4a8d-b3ed-f3067b030224",
+      "likes": [],
+      "timeStamp": 1619177306066,
+      "authorProfile": {
+        "avatarId": 4,
+        "fullname": "خلیل شاخی",
+        "userUnqId": "b77618d9-e808-42ef-a67b-a6f6715f85cb"
+      },
+      "id": 2
+    }
+  ],
+  "messages": []
 }
